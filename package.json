@@ -1,0 +1,22 @@
+{
+  "name": "tti_metermonitoring_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phanchautu/TTI_MeterMonitoring_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phanchautu/TTI_MeterMonitoring_server/issues"
+  },
+  "homepage": "https://github.com/phanchautu/TTI_MeterMonitoring_server#readme",
+  "dependencies": {
+    "mqtt": "^5.7.3"
+  }
+}
